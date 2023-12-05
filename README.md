@@ -15,7 +15,7 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 - Matplotlib and Seaborn libraries used to create visualisation of data
 - Arviz used to calculate the 90% HDI of the posterior distribution
 
-![](/asset/img/Example of bayesian average image.png) ![](/asset/img/posterior distribution.png)
+![](/asset/img/Example of bayesian average image.png) 
 
 ### [Project 2: University Data Analysis](https://github.com/jkrishna12/University-Data-Analysis)
 -	Analysed dataset using Pandas to find missing or erroneous data, replacing with appropriate values
