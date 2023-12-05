@@ -12,12 +12,13 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 - Implemented a bayesian analysis of a normal model with multiple observations
 - Matplotlib and Seaborn libraries used to create visualisation of data
 - Arviz used to calculate the 90% HDI of the posterior distribution
-![](/asset/img/Adam Voges.gif)
+![Batter GIF](/asset/img/Adam Voges.gif)
 ### Project 2: University Data Analysis
 -	Analysed dataset using Pandas to find missing or erroneous data, replacing with appropriate values
 -	Demonstrated skills in Seaborn and Matplotlib to show visualisations between key variables
 -	Performed feature engineering to create relevant features for machine learning
 -	Implemented and evaluated machine learning algorithms from Scikit-Learn to see which was most suitable for the business problem
+![](/asset/img/University_boxplot_distribution.jpg)
 ### Project 3:
 - Created visualisations using seaborn to support findings from hypothesis test
 - Used statsmodels to implement a two sample proportional z test
