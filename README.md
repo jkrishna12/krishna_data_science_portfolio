@@ -2,7 +2,7 @@
 ### Personal Profile
 Graduate Mechanical Engineering Student with a strong academic record. Excellent communication skills with a deep curiosity for innovative technical solutions gained through work experience and extra reading. Seeking a graduate role as a Data Scientist. 
 ### Education
-- MEng, Mechanical Engineering First Class Honours University of Southampton (_2019-2023_)
+- University of Southampton Mechanical Engineering (MEng) First Class Honours (_2019-2023_)
 - DataCamp Data Scientist Qualification (_2023_)
 - DataCamp Machine Learning Qualification (_2023_)
 ### [Project 1: Cricket Bayesian Average](https://github.com/jkrishna12/Cricket_Bayesian_Average)
