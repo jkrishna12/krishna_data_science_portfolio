@@ -17,6 +17,8 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 
 ![](/asset/img/Example of bayesian average image.png) 
 
+![](/asset/img/posterior distribution.png)
+
 ### [Project 2: University Data Analysis](https://github.com/jkrishna12/University-Data-Analysis)
 -	Analysed dataset using Pandas to find missing or erroneous data, replacing with appropriate values
 -	Demonstrated skills in Seaborn and Matplotlib to show visualisations between key variables
