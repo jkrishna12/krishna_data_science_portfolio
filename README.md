@@ -27,7 +27,7 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 
 ![](/asset/img/University_boxplot_distribution.jpg)
 
-### [Project 3: Healthcare Data Statistical Analysis](https://github.com/jkrishna12/University-Data-Analysis)
+### [Project 3: Healthcare Data Statistical Analysis](https://github.com/jkrishna12/Healthcare-Data-Statistical-Analysis)
 - Created visualisations using seaborn to support findings from hypothesis test
 - Used statsmodels to implement a two sample proportional z test
 - Leveraged Pingouin library to perform chi2 independence and normality test
