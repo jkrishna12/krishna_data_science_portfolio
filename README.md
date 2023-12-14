@@ -22,7 +22,7 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 ### [Project 2: Spam Text Classifier](https://github.com/jkrishna12/TextSpamClassifier)
 - Used Spacy and WordCloud to create informative visualisation for exploratory data analysis
 - Preprocessed text data by lemmatising tokens and removing stopwords
-- Leveraged RegEx to keep important data
+- Leveraged RegEx to keep relevant tokens
 - Implemented MultinomialNB and LinearSVC models from Sci-kit Learn
 - Created confusion matrix and ROC curve to evaluate model performance
 - Performed hyperparameter tuning with final model achieving an accuracy of 98%
