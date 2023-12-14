@@ -19,7 +19,19 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 
 ![](/asset/img/posterior_distribution.jpg)
 
-### [Project 2: University Data Analysis](https://github.com/jkrishna12/University-Data-Analysis)
+### [Project 2: Spam Text Classifier](https://github.com/jkrishna12/TextSpamClassifier)
+- Used Spacy and WordCloud to create informative visualisation for exploratory data analysis
+- Preprocessed text data by lemmatising tokens and removing stopwords
+- Leveraged RegEx to keep important data
+- Implemented MultinomialNB and LinearSVC models from Sci-kit Learn
+- Created confusion matrix and ROC curve to evaluate model performance
+- Performed hyperparameter tuning with final model achieving an accuracy of 98%
+
+![](/asset/img/TextSpamClassifier/Spam%20messages%20word%20cloud.png)
+
+![](/asset/img/TextSpamClassifier/confusion%20matrix.png)
+
+### [Project 3: University Data Analysis](https://github.com/jkrishna12/University-Data-Analysis)
 -	Analysed dataset using Pandas to find missing or erroneous data, replacing with appropriate values
 -	Demonstrated skills in Seaborn and Matplotlib to show visualisations between key variables
 -	Performed feature engineering to create relevant features for machine learning
@@ -27,7 +39,7 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 
 ![](/asset/img/University_boxplot_distribution.jpg)
 
-### [Project 3: Healthcare Data Statistical Analysis](https://github.com/jkrishna12/Healthcare-Data-Statistical-Analysis)
+### [Project 4: Healthcare Data Statistical Analysis](https://github.com/jkrishna12/Healthcare-Data-Statistical-Analysis)
 - Created visualisations using seaborn to support findings from hypothesis test
 - Used statsmodels to implement a two sample proportional z test
 - Leveraged Pingouin library to perform chi2 independence and normality test
