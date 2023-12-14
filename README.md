@@ -27,7 +27,7 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 - Created confusion matrix and ROC curve to evaluate model performance
 - Performed hyperparameter tuning with final model achieving an accuracy of 98%
 
-![](/asset/img/TextSpamClassifier/confusion%20matrix.png)
+![](/asset/img/TextSpamClassifier/confusion matrix.png)
 
 ### [Project 3: University Data Analysis](https://github.com/jkrishna12/University-Data-Analysis)
 -	Analysed dataset using Pandas to find missing or erroneous data, replacing with appropriate values
