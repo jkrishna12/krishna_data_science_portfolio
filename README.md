@@ -7,7 +7,7 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 - DataCamp Data Scientist Qualification (_2023_)
 - DataCamp Machine Learning Qualification (_2023_)
   
-### [Project 1: Cricket Bayesian Average](https://github.com/jkrishna12/Cricket_Bayesian_Average)
+### [Project 1: Using Bayesian Statistics to find the Best Test XI](https://github.com/jkrishna12/Cricket_Bayesian_Average)
 - Used requests and BeautifulSoup libraries to scrape data from website and turn into a Pandas dataframe
 - Cleaned dataframe removing missing/eroneous values
 - Performed feature engineering to generate relevant data needed for analysis
