@@ -44,3 +44,10 @@ Graduate Mechanical Engineering Student with a strong academic record. Excellent
 - Conducted Wilcoxon Mann Whitney test to compare distributions
 
 ![](/asset/img/Normalised proportions between groups.jpg)
+
+### [Project 5: Statistical Football Models](
+- Used Pandas to manipulate Wyscout datasets to create relevant features for the statisitcal models
+- Leveraged XGBoostClassifier and Linear Regression model to create an action based expected threat model
+- Developed an expected goals model using logistic regression taking the angle and distance of a shot as features
+
+![](asset/img/xG_model.png)
